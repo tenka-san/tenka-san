@@ -1,0 +1,12 @@
+[
+  {
+    "OWNER": "Yuukey Tamvan",
+    "ID": "0",      
+    "ACCESS": true, 
+    "USERNAME": "Yuukey", 
+    "PASSWORD": "#admin123", 
+    "BANNED": false,
+    "BAN_REASON": null,
+    "MAINTENANCE": false
+   }
+ ]
