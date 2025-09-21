@@ -19,10 +19,10 @@
   ],
   "Skills": [
     "StacksAndExperience": {
-      "JavaScript": "50%",
-      "HTML": "30%",
-      "Java": "20%",
-      "CSS": "-999"
+      "JavaScript": "70%",
+      "HTML": "50%",
+      "Python": "85%"
+      "CSS": "0%"
     },
     "Sleep"
   ]
